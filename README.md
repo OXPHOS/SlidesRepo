@@ -1,4 +1,4 @@
-The repo to store various tech overview slides and other files.
+Selected references and my own thoughts on various AI/DL/ML topics for less-tech people
 
 ## Table of Content:
 
